@@ -1,0 +1,10 @@
+src
+demo-src
+support
+test
+examples
+.gitignore
+.travis.yml
+.eslintrc.js
+.jshintrc
+.babelrc
