@@ -1,7 +1,7 @@
 {
-  "name": "styled-utils",
-  "version": "0.1.20",
-  "description": "styled-utils for styled-components",
+  "name": "styled-utils2",
+  "version": "0.5.0",
+  "description": "styled utils for styled-components",
   "main": "dist/index.js",
   "scripts": {
     "start": "node server.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@192.168.1.22:npm/styled-utils.git"
+    "url": "https://github.com/wenwuwu/styled-utils2.git"
   },
   "keywords": [
     "styled",
@@ -18,7 +18,7 @@
     "styled-components"
   ],
   "author": "Wenwu Wu <wen.v.wu@gmail.com>",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "dependencies": {
     "styled-components": "^1.4.3"
   },
