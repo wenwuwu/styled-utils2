@@ -1,7 +1,7 @@
 {
   "name": "styled-utils2",
   "version": "0.5.0",
-  "description": "styled utils for styled-components",
+  "description": "Utilities for styled-components",
   "main": "dist/index.js",
   "scripts": {
     "start": "node server.js",
