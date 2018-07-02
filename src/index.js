@@ -28,6 +28,11 @@ const noPadAndMargin = `
     padding: 0;
     margin: 0;
 `;
+const flexCenter = `
+    display: flex;
+    justify-content: center;
+    align-items: center;
+`;
 
 const regexPxStr = /^(-?[\d\.]+)(?:px)?$/i;
 
@@ -185,6 +190,7 @@ const mediaCustom = mediaBreakpoints(customBreakpoints);
 export {
     ellipsisWithWidth,
     noPadAndMargin,
+    flexCenter,
     allDescendantNoPadAndMargin,
     pxToRem,
     flexBorderWidth,
